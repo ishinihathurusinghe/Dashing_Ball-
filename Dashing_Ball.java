@@ -1,6 +1,6 @@
 
-import java.applet.*             ;
-import java.awt.*;
+import java.applet.*              ;
+import java.awt.*; 
 import java.awt.event.*;
 import javax.swing.*;
 /*<applet code="Dashing_Ball" width=600 height=600>
